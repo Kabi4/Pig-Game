@@ -32,7 +32,7 @@ var firstTurn = true;
 
 //functions
 function randomNumber() {
-    let number = Math.floor(Math.random()*2)+5;
+    let number = Math.floor(Math.random()*6)+1;
     return number;
 }
 
